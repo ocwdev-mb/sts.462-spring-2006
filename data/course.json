@@ -1,0 +1,55 @@
+{
+  "term": "Spring",
+  "year": "2006",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "History",
+      "History of Science and Technology"
+    ],
+    [
+      "Social Science",
+      "Anthropology"
+    ],
+    [
+      "Social Science",
+      "Sociology"
+    ],
+    [
+      "Social Science",
+      "Political Science"
+    ]
+  ],
+  "legacy_uid": "0a252509-d2c2-bc6a-ac8b-d6b8be3b631c",
+  "instructors": {
+    "content": [
+      "e950e033-9524-c600-2449-fe5276f40a3c",
+      "d7f32266-6f58-3606-54fa-d4b85b599d5e"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "d9c39961-316d-019e-5bc0-e597259dc62f",
+    "website": "sts-462-social-and-political-implications-of-technology-spring-2006"
+  },
+  "course_title": "Social and Political Implications of Technology",
+  "course_description": "This course is a graduate reading seminar, in which historical and contemporary studies are used to explore the interaction of technology with social and political values. Emphasis is on how technological devices, structures, and systems influence the organization of society and the behavior of its members. Examples are drawn from the technologies of war, transportation, communication, production, and reproduction.\n",
+  "department_numbers": [
+    "STS"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "STS.462",
+  "course_image_thumbnail": {
+    "content": "f4de3059-85c4-4170-9d21-59097a117503",
+    "website": "sts-462-social-and-political-implications-of-technology-spring-2006"
+  },
+  "learning_resource_types": [
+    "Written Assignments with Examples"
+  ],
+  "site_uid": "5c1c6990-099d-4d8e-a2d2-968e8bf6e117",
+  "site_short_id": "sts.462-spring-2006",
+  "title": "Course Metadata"
+}
